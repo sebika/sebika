@@ -1,6 +1,6 @@
 ### Hi there, I'm Sebastian - aka sebika 👋
 
-## I'm a Student, Gamer, Memer and upcoming Artist is guess 😆
+## I'm a Student, Gamer, Memer and upcoming Artist I guess 😆
 
 - 🔭 I’m currently working on figuring out what I like 😛
 - 🌱 I’m currently learning everything 🤣
