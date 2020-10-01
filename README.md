@@ -10,24 +10,18 @@
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github.com/sebika/sebika/blob/master/images/pls_hire_me.jpg?raw=true" />
-</a>
+<img align="center" src="https://github.com/sebika/sebika/blob/master/images/pls_hire_me.jpg?raw=true" />
 
 <hr style="border:0.5px solid gray"> </hr>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://www.twitch.tv/bobross">
   <img align="center" src="https://github.com/sebika/sebika/blob/master/images/bob_ross.jpg?raw=true" />
 </a>
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sebika&show_icons=true&hide_border=true&count_private=true" />
-</a>
 
 ---
 
-<a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebika&langs_count=10&hide=javascript,html,css" />
-</a>
