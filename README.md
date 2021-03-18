@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw🎨 and I really want to learn to play piano and bAss 🎸
+- ⚡ Fun fact: I love to draw🎨 and I really want to learn playing piano and bAss 🎸
 
 ---
 
