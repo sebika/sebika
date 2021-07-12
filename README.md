@@ -8,8 +8,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw 🎨 and I really want to learn playing piano and bAss 🎸
 
----
-
 <hr style="border:0.5px solid gray"> </hr>
 
 <a href="https://www.twitch.tv/bobross">
