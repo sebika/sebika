@@ -6,11 +6,9 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw🎨 and I really want to learn playing piano and bAss 🎸
+- ⚡ Fun fact: I love to draw 🎨 and I really want to learn playing piano and bAss 🎸
 
 ---
-
-<img align="center" src="https://github.com/sebika/sebika/blob/master/images/pls_hire_me.jpg?raw=true" />
 
 <hr style="border:0.5px solid gray"> </hr>
 
