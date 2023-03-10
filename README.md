@@ -1,4 +1,4 @@
-### Hi there, I'm Sebastian - aka [sebika](https://www.instagram.com/sebikaxd/)
+### Hi there, I'm Sebastian - aka sebika
 
 ---
 
