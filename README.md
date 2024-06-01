@@ -1,4 +1,4 @@
-### Hi there, I'm Sebastian - aka sebika
+### Hi there, I'm Sebi - aka sebika
 
 ---
 
